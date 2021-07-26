@@ -1,0 +1,14 @@
+body {
+
+    background-color: #39A2DB;
+    text-align: center;
+}
+
+.heart {
+    width: 50%;
+}
+
+h1 {
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-size: 5rem;
+}
